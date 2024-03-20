@@ -1,0 +1,131 @@
+[
+  [
+    {
+      "id": "001",
+      "name": {
+        "firstName": "Sean",
+        "lastName": "Austin"
+      },
+      "subjectsAndGradeMap": {
+        " TÖRI": [
+          {
+            "value": 3
+          }
+        ],
+        " BIGI": [
+          {
+            "value": 2
+          }
+        ],
+        " MATEK": [
+          {
+            "value": 5
+          },
+          {
+            "value": 2
+          }
+        ]
+      },
+      "isAbsent": false,
+      "numberOfAbsences": 31
+    },
+    {
+      "id": "002",
+      "name": {
+        "firstName": "Elijah",
+        "lastName": "Wood"
+      },
+      "subjectsAndGradeMap": {
+        " FÖCI": [
+          {
+            "value": 2
+          }
+        ],
+        " TÖRI": [
+          {
+            "value": 3
+          }
+        ],
+        " MATEK": [
+          {
+            "value": 3
+          },
+          {
+            "value": 5
+          }
+        ]
+      },
+      "isAbsent": false,
+      "numberOfAbsences": 5
+    },
+    {
+      "id": "1111",
+      "name": {
+        "firstName": "Habala",
+        "lastName": "Babala"
+      },
+      "subjectsAndGradeMap": {},
+      "isAbsent": false,
+      "numberOfAbsences": 0
+    }
+  ],
+  [
+    {
+      "id": "003",
+      "name": {
+        "firstName": "Billy",
+        "lastName": "Boyd"
+      },
+      "subjectsAndGradeMap": {
+        " MATEK": [
+          {
+            "value": 2
+          },
+          {
+            "value": 4
+          },
+          {
+            "value": 2
+          }
+        ]
+      },
+      "isAbsent": false,
+      "numberOfAbsences": 5
+    },
+    {
+      "id": "004",
+      "name": {
+        "firstName": "Dominic",
+        "lastName": "Monaghan"
+      },
+      "subjectsAndGradeMap": {
+        " FÖCI": [
+          {
+            "value": 3
+          },
+          {
+            "value": 3
+          },
+          {
+            "value": 5
+          }
+        ],
+        " BIGI": [
+          {
+            "value": 5
+          }
+        ],
+        " MATEK": [
+          {
+            "value": 5
+          },
+          {
+            "value": 2
+          }
+        ]
+      },
+      "isAbsent": false,
+      "numberOfAbsences": 2
+    }
+  ]
+]

@@ -1,0 +1,2242 @@
+[
+  {
+    "id": "001",
+    "name": {
+      "firstName": "Sean",
+      "lastName": "Austin"
+    },
+    "subjectsAndGradeMap": {
+      " TÖRI": [
+        {
+          "value": 4
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": 3
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": 4
+        }
+      ],
+      " BIGI": [
+        {
+          "value": 4
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": 5
+        },
+        {
+          "value": 1
+        },
+        {
+          "value": 1
+        }
+      ],
+      " MATEK": [
+        {
+          "value": 5
+        },
+        {
+          "value": 3
+        },
+        {
+          "value": 5
+        },
+        {
+          "value": 4
+        },
+        {
+          "value": 4
+        }
+      ],
+      " FÖCI": [
+        {
+          "value": 4
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": 5
+        },
+        {
+          "value": 3
+        },
+        {
+          "value": 4
+        }
+      ]
+    },
+    "isAbsent": false,
+    "numberOfAbsences": 31
+  },
+  {
+    "id": "002",
+    "name": {
+      "firstName": "Elijah",
+      "lastName": "Wood"
+    },
+    "subjectsAndGradeMap": {
+      " FÖCI": [
+        {
+          "value": 3
+        },
+        {
+          "value": 1
+        },
+        {
+          "value": 5
+        },
+        {
+          "value": 3
+        },
+        {
+          "value": 3
+        }
+      ],
+      " TÖRI": [
+        {
+          "value": 2
+        },
+        {
+          "value": 1
+        },
+        {
+          "value": 3
+        },
+        {
+          "value": 5
+        },
+        {
+          "value": 3
+        }
+      ],
+      " MATEK": [
+        {
+          "value": 1
+        },
+        {
+          "value": 1
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": 2
+        }
+      ],
+      " BIGI": [
+        {
+          "value": 1
+        },
+        {
+          "value": 5
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": 5
+        },
+        {
+          "value": 3
+        }
+      ]
+    },
+    "isAbsent": false,
+    "numberOfAbsences": 5
+  },
+  {
+    "id": "003",
+    "name": {
+      "firstName": "Billy",
+      "lastName": "Boyd"
+    },
+    "subjectsAndGradeMap": {
+      " MATEK": [
+        {
+          "value": 1
+        },
+        {
+          "value": 5
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": 3
+        },
+        {
+          "value": 2
+        }
+      ],
+      " BIGI": [
+        {
+          "value": 2
+        },
+        {
+          "value": 5
+        },
+        {
+          "value": 5
+        },
+        {
+          "value": 4
+        },
+        {
+          "value": 3
+        }
+      ],
+      " TÖRI": [
+        {
+          "value": 1
+        },
+        {
+          "value": 3
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": 4
+        },
+        {
+          "value": 5
+        }
+      ],
+      " FÖCI": [
+        {
+          "value": 2
+        },
+        {
+          "value": 1
+        },
+        {
+          "value": 4
+        },
+        {
+          "value": 4
+        },
+        {
+          "value": 3
+        }
+      ]
+    },
+    "isAbsent": false,
+    "numberOfAbsences": 5
+  },
+  {
+    "id": "004",
+    "name": {
+      "firstName": "Dominic",
+      "lastName": "Monaghan"
+    },
+    "subjectsAndGradeMap": {
+      " FÖCI": [
+        {
+          "value": 1
+        },
+        {
+          "value": 5
+        },
+        {
+          "value": 1
+        },
+        {
+          "value": 4
+        },
+        {
+          "value": 1
+        }
+      ],
+      " BIGI": [
+        {
+          "value": 2
+        },
+        {
+          "value": 5
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": 5
+        }
+      ],
+      " MATEK": [
+        {
+          "value": 1
+        },
+        {
+          "value": 4
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": 3
+        }
+      ],
+      " TÖRI": [
+        {
+          "value": 5
+        },
+        {
+          "value": 1
+        },
+        {
+          "value": 3
+        },
+        {
+          "value": 3
+        },
+        {
+          "value": 1
+        }
+      ]
+    },
+    "isAbsent": false,
+    "numberOfAbsences": 2
+  },
+  {
+    "id": "005",
+    "name": {
+      "firstName": "Brendan",
+      "lastName": "Fraser"
+    },
+    "subjectsAndGradeMap": {
+      " BIGI": [
+        {
+          "value": 1
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": 3
+        },
+        {
+          "value": 5
+        },
+        {
+          "value": 4
+        }
+      ],
+      " FÖCI": [
+        {
+          "value": 4
+        },
+        {
+          "value": 4
+        },
+        {
+          "value": 5
+        },
+        {
+          "value": 4
+        },
+        {
+          "value": 4
+        }
+      ],
+      " TÖRI": [
+        {
+          "value": 5
+        },
+        {
+          "value": 5
+        },
+        {
+          "value": 5
+        },
+        {
+          "value": 1
+        },
+        {
+          "value": 2
+        }
+      ],
+      " MATEK": [
+        {
+          "value": 5
+        },
+        {
+          "value": 4
+        },
+        {
+          "value": 1
+        },
+        {
+          "value": 4
+        },
+        {
+          "value": 1
+        }
+      ]
+    },
+    "isAbsent": false,
+    "numberOfAbsences": 0
+  },
+  {
+    "id": "006",
+    "name": {
+      "firstName": "Robin",
+      "lastName": "Hood"
+    },
+    "subjectsAndGradeMap": {
+      " BIGI": [
+        {
+          "value": 2
+        },
+        {
+          "value": 4
+        },
+        {
+          "value": 5
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": 2
+        }
+      ],
+      " FÖCI": [
+        {
+          "value": 5
+        },
+        {
+          "value": 5
+        },
+        {
+          "value": 4
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": 2
+        }
+      ],
+      " TÖRI": [
+        {
+          "value": 3
+        },
+        {
+          "value": 4
+        },
+        {
+          "value": 5
+        },
+        {
+          "value": 3
+        },
+        {
+          "value": 4
+        }
+      ],
+      " MATEK": [
+        {
+          "value": 3
+        },
+        {
+          "value": 5
+        },
+        {
+          "value": 5
+        },
+        {
+          "value": 4
+        },
+        {
+          "value": 3
+        }
+      ]
+    },
+    "isAbsent": false,
+    "numberOfAbsences": 0
+  },
+  {
+    "id": "007",
+    "name": {
+      "firstName": "Pablo",
+      "lastName": "Picasso"
+    },
+    "subjectsAndGradeMap": {
+      " BIGI": [
+        {
+          "value": 3
+        },
+        {
+          "value": 4
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": 3
+        },
+        {
+          "value": 4
+        }
+      ],
+      " FÖCI": [
+        {
+          "value": 5
+        },
+        {
+          "value": 3
+        },
+        {
+          "value": 1
+        },
+        {
+          "value": 4
+        },
+        {
+          "value": 4
+        }
+      ],
+      " TÖRI": [
+        {
+          "value": 4
+        },
+        {
+          "value": 1
+        },
+        {
+          "value": 3
+        },
+        {
+          "value": 4
+        },
+        {
+          "value": 4
+        }
+      ],
+      " MATEK": [
+        {
+          "value": 4
+        },
+        {
+          "value": 5
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": 3
+        }
+      ]
+    },
+    "isAbsent": false,
+    "numberOfAbsences": 0
+  },
+  {
+    "id": "008",
+    "name": {
+      "firstName": "Phileas",
+      "lastName": "Fogg"
+    },
+    "subjectsAndGradeMap": {
+      " BIGI": [
+        {
+          "value": 2
+        },
+        {
+          "value": 3
+        },
+        {
+          "value": 3
+        },
+        {
+          "value": 3
+        },
+        {
+          "value": 4
+        }
+      ],
+      " FÖCI": [
+        {
+          "value": 1
+        },
+        {
+          "value": 4
+        },
+        {
+          "value": 4
+        },
+        {
+          "value": 3
+        },
+        {
+          "value": 3
+        }
+      ],
+      " TÖRI": [
+        {
+          "value": 5
+        },
+        {
+          "value": 5
+        },
+        {
+          "value": 3
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": 4
+        }
+      ],
+      " MATEK": [
+        {
+          "value": 1
+        },
+        {
+          "value": 3
+        },
+        {
+          "value": 5
+        },
+        {
+          "value": 3
+        },
+        {
+          "value": 3
+        }
+      ]
+    },
+    "isAbsent": false,
+    "numberOfAbsences": 1
+  },
+  {
+    "id": "009",
+    "name": {
+      "firstName": "Billy Bob",
+      "lastName": "Thornton"
+    },
+    "subjectsAndGradeMap": {
+      " BIGI": [
+        {
+          "value": 2
+        },
+        {
+          "value": 1
+        },
+        {
+          "value": 4
+        },
+        {
+          "value": 5
+        },
+        {
+          "value": 1
+        }
+      ],
+      " FÖCI": [
+        {
+          "value": 5
+        },
+        {
+          "value": 1
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": 5
+        },
+        {
+          "value": 5
+        }
+      ],
+      " TÖRI": [
+        {
+          "value": 2
+        },
+        {
+          "value": 4
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": 4
+        },
+        {
+          "value": 4
+        }
+      ],
+      " MATEK": [
+        {
+          "value": 2
+        },
+        {
+          "value": 1
+        },
+        {
+          "value": 5
+        },
+        {
+          "value": 3
+        },
+        {
+          "value": 5
+        }
+      ]
+    },
+    "isAbsent": false,
+    "numberOfAbsences": 1
+  },
+  {
+    "id": "010",
+    "name": {
+      "firstName": "Louis",
+      "lastName": "de Funes"
+    },
+    "subjectsAndGradeMap": {
+      " MATEK": [
+        {
+          "value": 5
+        },
+        {
+          "value": 3
+        },
+        {
+          "value": 5
+        },
+        {
+          "value": 5
+        },
+        {
+          "value": 5
+        }
+      ],
+      " BIGI": [
+        {
+          "value": 1
+        },
+        {
+          "value": 1
+        },
+        {
+          "value": 4
+        },
+        {
+          "value": 3
+        },
+        {
+          "value": 4
+        }
+      ],
+      " FÖCI": [
+        {
+          "value": 1
+        },
+        {
+          "value": 5
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": 4
+        },
+        {
+          "value": 2
+        }
+      ],
+      " TÖRI": [
+        {
+          "value": 3
+        },
+        {
+          "value": 5
+        },
+        {
+          "value": 5
+        },
+        {
+          "value": 5
+        },
+        {
+          "value": 5
+        }
+      ]
+    },
+    "isAbsent": false,
+    "numberOfAbsences": 1
+  },
+  {
+    "id": "011",
+    "name": {
+      "firstName": "Terence",
+      "lastName": "Hill"
+    },
+    "subjectsAndGradeMap": {
+      " BIGI": [
+        {
+          "value": 5
+        },
+        {
+          "value": 5
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": 3
+        },
+        {
+          "value": 5
+        }
+      ],
+      " FÖCI": [
+        {
+          "value": 1
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": 1
+        },
+        {
+          "value": 3
+        }
+      ],
+      " TÖRI": [
+        {
+          "value": 3
+        },
+        {
+          "value": 4
+        },
+        {
+          "value": 4
+        },
+        {
+          "value": 4
+        },
+        {
+          "value": 4
+        }
+      ],
+      " MATEK": [
+        {
+          "value": 1
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": 3
+        },
+        {
+          "value": 1
+        },
+        {
+          "value": 2
+        }
+      ]
+    },
+    "isAbsent": false,
+    "numberOfAbsences": 4
+  },
+  {
+    "id": "012",
+    "name": {
+      "firstName": "Franco",
+      "lastName": "Nero"
+    },
+    "subjectsAndGradeMap": {
+      " BIGI": [
+        {
+          "value": 5
+        },
+        {
+          "value": 3
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": 1
+        },
+        {
+          "value": 5
+        }
+      ],
+      " FÖCI": [
+        {
+          "value": 5
+        },
+        {
+          "value": 1
+        },
+        {
+          "value": 4
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": 4
+        }
+      ],
+      " TÖRI": [
+        {
+          "value": 3
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": 5
+        }
+      ],
+      " MATEK": [
+        {
+          "value": 2
+        },
+        {
+          "value": 1
+        },
+        {
+          "value": 5
+        },
+        {
+          "value": 5
+        },
+        {
+          "value": 2
+        }
+      ]
+    },
+    "isAbsent": false,
+    "numberOfAbsences": 0
+  },
+  {
+    "id": "013",
+    "name": {
+      "firstName": "Donald",
+      "lastName": "Duck"
+    },
+    "subjectsAndGradeMap": {
+      " BIGI": [
+        {
+          "value": 4
+        },
+        {
+          "value": 3
+        },
+        {
+          "value": 1
+        },
+        {
+          "value": 5
+        },
+        {
+          "value": 2
+        }
+      ],
+      " FÖCI": [
+        {
+          "value": 3
+        },
+        {
+          "value": 5
+        },
+        {
+          "value": 5
+        },
+        {
+          "value": 3
+        },
+        {
+          "value": 1
+        }
+      ],
+      " TÖRI": [
+        {
+          "value": 2
+        },
+        {
+          "value": 3
+        },
+        {
+          "value": 3
+        },
+        {
+          "value": 4
+        },
+        {
+          "value": 3
+        }
+      ],
+      " MATEK": [
+        {
+          "value": 3
+        },
+        {
+          "value": 1
+        },
+        {
+          "value": 3
+        },
+        {
+          "value": 4
+        },
+        {
+          "value": 4
+        }
+      ]
+    },
+    "isAbsent": false,
+    "numberOfAbsences": 2
+  },
+  {
+    "id": "014",
+    "name": {
+      "firstName": "Michael",
+      "lastName": "Jordan"
+    },
+    "subjectsAndGradeMap": {
+      " BIGI": [
+        {
+          "value": 2
+        },
+        {
+          "value": 3
+        },
+        {
+          "value": 4
+        },
+        {
+          "value": 1
+        },
+        {
+          "value": 3
+        }
+      ],
+      " FÖCI": [
+        {
+          "value": 4
+        },
+        {
+          "value": 1
+        },
+        {
+          "value": 1
+        },
+        {
+          "value": 5
+        },
+        {
+          "value": 5
+        }
+      ],
+      " TÖRI": [
+        {
+          "value": 2
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": 1
+        },
+        {
+          "value": 1
+        },
+        {
+          "value": 3
+        }
+      ],
+      " MATEK": [
+        {
+          "value": 1
+        },
+        {
+          "value": 3
+        },
+        {
+          "value": 5
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": 1
+        }
+      ]
+    },
+    "isAbsent": false,
+    "numberOfAbsences": 4
+  },
+  {
+    "id": "015",
+    "name": {
+      "firstName": "John",
+      "lastName": "Barrow"
+    },
+    "subjectsAndGradeMap": {
+      " MATEK": [
+        {
+          "value": 5
+        },
+        {
+          "value": 3
+        },
+        {
+          "value": 5
+        },
+        {
+          "value": 1
+        },
+        {
+          "value": 2
+        }
+      ],
+      " BIGI": [
+        {
+          "value": 5
+        },
+        {
+          "value": 3
+        },
+        {
+          "value": 4
+        },
+        {
+          "value": 5
+        },
+        {
+          "value": 4
+        }
+      ],
+      " FÖCI": [
+        {
+          "value": 3
+        },
+        {
+          "value": 3
+        },
+        {
+          "value": 5
+        },
+        {
+          "value": 3
+        },
+        {
+          "value": 3
+        }
+      ],
+      " TÖRI": [
+        {
+          "value": 5
+        },
+        {
+          "value": 4
+        },
+        {
+          "value": 3
+        },
+        {
+          "value": 5
+        },
+        {
+          "value": 1
+        }
+      ]
+    },
+    "isAbsent": false,
+    "numberOfAbsences": 0
+  },
+  {
+    "id": "016",
+    "name": {
+      "firstName": "Winston",
+      "lastName": "Churchill"
+    },
+    "subjectsAndGradeMap": {
+      " MATEK": [
+        {
+          "value": 3
+        },
+        {
+          "value": 3
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": 1
+        },
+        {
+          "value": 2
+        }
+      ],
+      " BIGI": [
+        {
+          "value": 5
+        },
+        {
+          "value": 3
+        },
+        {
+          "value": 5
+        },
+        {
+          "value": 4
+        },
+        {
+          "value": 3
+        }
+      ],
+      " FÖCI": [
+        {
+          "value": 4
+        },
+        {
+          "value": 1
+        },
+        {
+          "value": 5
+        },
+        {
+          "value": 3
+        },
+        {
+          "value": 3
+        }
+      ],
+      " TÖRI": [
+        {
+          "value": 4
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": 4
+        },
+        {
+          "value": 4
+        },
+        {
+          "value": 1
+        }
+      ]
+    },
+    "isAbsent": false,
+    "numberOfAbsences": 0
+  },
+  {
+    "id": "017",
+    "name": {
+      "firstName": "Sándor",
+      "lastName": "Petőfi"
+    },
+    "subjectsAndGradeMap": {
+      " BIGI": [
+        {
+          "value": 4
+        },
+        {
+          "value": 4
+        },
+        {
+          "value": 4
+        },
+        {
+          "value": 5
+        },
+        {
+          "value": 1
+        }
+      ],
+      " FÖCI": [
+        {
+          "value": 4
+        },
+        {
+          "value": 5
+        },
+        {
+          "value": 3
+        },
+        {
+          "value": 3
+        },
+        {
+          "value": 4
+        }
+      ],
+      " TÖRI": [
+        {
+          "value": 1
+        },
+        {
+          "value": 5
+        },
+        {
+          "value": 3
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": 3
+        }
+      ],
+      " MATEK": [
+        {
+          "value": 3
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": 1
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": 2
+        }
+      ]
+    },
+    "isAbsent": false,
+    "numberOfAbsences": 4
+  },
+  {
+    "id": "018",
+    "name": {
+      "firstName": "Julia",
+      "lastName": "Roberts"
+    },
+    "subjectsAndGradeMap": {
+      " MATEK": [
+        {
+          "value": 1
+        },
+        {
+          "value": 3
+        },
+        {
+          "value": 5
+        },
+        {
+          "value": 5
+        },
+        {
+          "value": 4
+        }
+      ],
+      " BIGI": [
+        {
+          "value": 4
+        },
+        {
+          "value": 1
+        },
+        {
+          "value": 4
+        },
+        {
+          "value": 1
+        },
+        {
+          "value": 3
+        }
+      ],
+      " FÖCI": [
+        {
+          "value": 5
+        },
+        {
+          "value": 1
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": 3
+        },
+        {
+          "value": 4
+        }
+      ],
+      " TÖRI": [
+        {
+          "value": 5
+        },
+        {
+          "value": 3
+        },
+        {
+          "value": 3
+        },
+        {
+          "value": 1
+        },
+        {
+          "value": 1
+        }
+      ]
+    },
+    "isAbsent": false,
+    "numberOfAbsences": 5
+  },
+  {
+    "id": "019",
+    "name": {
+      "firstName": "Gyula",
+      "lastName": "Húsz"
+    },
+    "subjectsAndGradeMap": {
+      " MATEK": [
+        {
+          "value": 5
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": 1
+        },
+        {
+          "value": 4
+        }
+      ],
+      " TÖRI": [
+        {
+          "value": 2
+        },
+        {
+          "value": 4
+        },
+        {
+          "value": 1
+        },
+        {
+          "value": 3
+        },
+        {
+          "value": 1
+        }
+      ],
+      " BIGI": [
+        {
+          "value": 3
+        },
+        {
+          "value": 4
+        },
+        {
+          "value": 4
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": 1
+        }
+      ],
+      " FÖCI": [
+        {
+          "value": 4
+        },
+        {
+          "value": 3
+        },
+        {
+          "value": 4
+        },
+        {
+          "value": 4
+        },
+        {
+          "value": 1
+        }
+      ]
+    },
+    "isAbsent": false,
+    "numberOfAbsences": 2
+  },
+  {
+    "id": "020",
+    "name": {
+      "firstName": "Harley",
+      "lastName": "Quinn"
+    },
+    "subjectsAndGradeMap": {
+      " BIGI": [
+        {
+          "value": 1
+        },
+        {
+          "value": 5
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": 4
+        }
+      ],
+      " FÖCI": [
+        {
+          "value": 3
+        },
+        {
+          "value": 1
+        },
+        {
+          "value": 1
+        },
+        {
+          "value": 5
+        },
+        {
+          "value": 4
+        }
+      ],
+      " TÖRI": [
+        {
+          "value": 3
+        },
+        {
+          "value": 5
+        },
+        {
+          "value": 3
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": 5
+        }
+      ],
+      " MATEK": [
+        {
+          "value": 5
+        },
+        {
+          "value": 4
+        },
+        {
+          "value": 5
+        },
+        {
+          "value": 5
+        },
+        {
+          "value": 1
+        }
+      ]
+    },
+    "isAbsent": false,
+    "numberOfAbsences": 1
+  },
+  {
+    "id": "021",
+    "name": {
+      "firstName": "John",
+      "lastName": "Rambo"
+    },
+    "subjectsAndGradeMap": {
+      " MATEK": [
+        {
+          "value": 2
+        },
+        {
+          "value": 3
+        },
+        {
+          "value": 5
+        },
+        {
+          "value": 5
+        },
+        {
+          "value": 4
+        }
+      ],
+      " BIGI": [
+        {
+          "value": 4
+        },
+        {
+          "value": 5
+        },
+        {
+          "value": 4
+        },
+        {
+          "value": 3
+        },
+        {
+          "value": 1
+        }
+      ],
+      " FÖCI": [
+        {
+          "value": 5
+        },
+        {
+          "value": 3
+        },
+        {
+          "value": 1
+        },
+        {
+          "value": 4
+        },
+        {
+          "value": 1
+        }
+      ],
+      " TÖRI": [
+        {
+          "value": 3
+        },
+        {
+          "value": 1
+        },
+        {
+          "value": 4
+        },
+        {
+          "value": 4
+        },
+        {
+          "value": 2
+        }
+      ]
+    },
+    "isAbsent": false,
+    "numberOfAbsences": 1
+  },
+  {
+    "id": "022",
+    "name": {
+      "firstName": "Billy",
+      "lastName": "Idol"
+    },
+    "subjectsAndGradeMap": {
+      " MATEK": [
+        {
+          "value": 3
+        },
+        {
+          "value": 3
+        },
+        {
+          "value": 1
+        },
+        {
+          "value": 1
+        },
+        {
+          "value": 3
+        }
+      ],
+      " BIGI": [
+        {
+          "value": 4
+        },
+        {
+          "value": 1
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": 3
+        }
+      ],
+      " FÖCI": [
+        {
+          "value": 2
+        },
+        {
+          "value": 4
+        },
+        {
+          "value": 5
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": 1
+        }
+      ],
+      " TÖRI": [
+        {
+          "value": 2
+        },
+        {
+          "value": 5
+        },
+        {
+          "value": 4
+        },
+        {
+          "value": 1
+        },
+        {
+          "value": 3
+        }
+      ]
+    },
+    "isAbsent": false,
+    "numberOfAbsences": 3
+  },
+  {
+    "id": "023",
+    "name": {
+      "firstName": "Donald",
+      "lastName": "Trump"
+    },
+    "subjectsAndGradeMap": {
+      " MATEK": [
+        {
+          "value": 3
+        },
+        {
+          "value": 3
+        },
+        {
+          "value": 1
+        },
+        {
+          "value": 3
+        },
+        {
+          "value": 5
+        }
+      ],
+      " BIGI": [
+        {
+          "value": 4
+        },
+        {
+          "value": 4
+        },
+        {
+          "value": 1
+        },
+        {
+          "value": 3
+        },
+        {
+          "value": 5
+        }
+      ],
+      " TÖRI": [
+        {
+          "value": 4
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": 3
+        },
+        {
+          "value": 4
+        },
+        {
+          "value": 5
+        }
+      ],
+      " FÖCI": [
+        {
+          "value": 2
+        },
+        {
+          "value": 4
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": 5
+        },
+        {
+          "value": 1
+        },
+        {
+          "value": 3
+        }
+      ]
+    },
+    "isAbsent": false,
+    "numberOfAbsences": 2
+  },
+  {
+    "id": "024",
+    "name": {
+      "firstName": "Michael",
+      "lastName": "Knight"
+    },
+    "subjectsAndGradeMap": {
+      " BIGI": [
+        {
+          "value": 1
+        },
+        {
+          "value": 3
+        },
+        {
+          "value": 5
+        },
+        {
+          "value": 1
+        },
+        {
+          "value": 4
+        },
+        {
+          "value": 2
+        }
+      ],
+      " FÖCI": [
+        {
+          "value": 3
+        },
+        {
+          "value": 1
+        },
+        {
+          "value": 4
+        },
+        {
+          "value": 1
+        },
+        {
+          "value": 5
+        }
+      ],
+      " TÖRI": [
+        {
+          "value": 5
+        },
+        {
+          "value": 1
+        },
+        {
+          "value": 5
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": 3
+        }
+      ],
+      " MATEK": [
+        {
+          "value": 4
+        },
+        {
+          "value": 3
+        },
+        {
+          "value": 1
+        },
+        {
+          "value": 1
+        },
+        {
+          "value": 3
+        }
+      ]
+    },
+    "isAbsent": false,
+    "numberOfAbsences": 4
+  },
+  {
+    "id": "025",
+    "name": {
+      "firstName": "Yoda",
+      "lastName": "Master"
+    },
+    "subjectsAndGradeMap": {
+      " FÖCI": [
+        {
+          "value": 1
+        },
+        {
+          "value": 4
+        },
+        {
+          "value": 4
+        },
+        {
+          "value": 5
+        },
+        {
+          "value": 2
+        }
+      ],
+      " MATEK": [
+        {
+          "value": 3
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": 4
+        },
+        {
+          "value": 1
+        },
+        {
+          "value": 4
+        }
+      ],
+      " BIGI": [
+        {
+          "value": 2
+        },
+        {
+          "value": 5
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": 3
+        },
+        {
+          "value": 1
+        }
+      ],
+      " TÖRI": [
+        {
+          "value": 5
+        },
+        {
+          "value": 4
+        },
+        {
+          "value": 3
+        },
+        {
+          "value": 5
+        },
+        {
+          "value": 2
+        }
+      ]
+    },
+    "isAbsent": false,
+    "numberOfAbsences": 1
+  },
+  {
+    "id": "026",
+    "name": {
+      "firstName": "Francesco",
+      "lastName": "Totti"
+    },
+    "subjectsAndGradeMap": {
+      " MATEK": [
+        {
+          "value": 5
+        },
+        {
+          "value": 1
+        },
+        {
+          "value": 5
+        },
+        {
+          "value": 3
+        },
+        {
+          "value": 1
+        },
+        {
+          "value": 1
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": 1
+        }
+      ],
+      " BIGI": [
+        {
+          "value": 3
+        },
+        {
+          "value": 4
+        },
+        {
+          "value": 4
+        },
+        {
+          "value": 1
+        },
+        {
+          "value": 4
+        }
+      ],
+      " TÖRI": [
+        {
+          "value": 5
+        },
+        {
+          "value": 1
+        },
+        {
+          "value": 4
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": 2
+        }
+      ],
+      " FÖCI": [
+        {
+          "value": 2
+        },
+        {
+          "value": 3
+        },
+        {
+          "value": 5
+        },
+        {
+          "value": 4
+        },
+        {
+          "value": 5
+        }
+      ]
+    },
+    "isAbsent": false,
+    "numberOfAbsences": 21
+  },
+  {
+    "id": "027",
+    "name": {
+      "firstName": "Elek",
+      "lastName": "Benedek"
+    },
+    "subjectsAndGradeMap": {
+      " BIGI": [
+        {
+          "value": 4
+        },
+        {
+          "value": 4
+        },
+        {
+          "value": 1
+        },
+        {
+          "value": 3
+        },
+        {
+          "value": 1
+        }
+      ],
+      " FÖCI": [
+        {
+          "value": 4
+        },
+        {
+          "value": 3
+        },
+        {
+          "value": 3
+        },
+        {
+          "value": 1
+        },
+        {
+          "value": 1
+        }
+      ],
+      " TÖRI": [
+        {
+          "value": 1
+        },
+        {
+          "value": 3
+        },
+        {
+          "value": 4
+        },
+        {
+          "value": 1
+        },
+        {
+          "value": 4
+        }
+      ],
+      " MATEK": [
+        {
+          "value": 1
+        },
+        {
+          "value": 3
+        },
+        {
+          "value": 4
+        },
+        {
+          "value": 3
+        },
+        {
+          "value": 4
+        },
+        {
+          "value": 1
+        }
+      ]
+    },
+    "isAbsent": false,
+    "numberOfAbsences": 1
+  },
+  {
+    "id": "028",
+    "name": {
+      "firstName": "Tad",
+      "lastName": "Williams"
+    },
+    "subjectsAndGradeMap": {
+      " BIGI": [
+        {
+          "value": 5
+        },
+        {
+          "value": 1
+        },
+        {
+          "value": 3
+        },
+        {
+          "value": 3
+        },
+        {
+          "value": 5
+        }
+      ],
+      " FÖCI": [
+        {
+          "value": 1
+        },
+        {
+          "value": 1
+        },
+        {
+          "value": 5
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": 5
+        }
+      ],
+      " TÖRI": [
+        {
+          "value": 5
+        },
+        {
+          "value": 5
+        },
+        {
+          "value": 3
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": 5
+        }
+      ],
+      " MATEK": [
+        {
+          "value": 3
+        },
+        {
+          "value": 3
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": 4
+        },
+        {
+          "value": 2
+        }
+      ]
+    },
+    "isAbsent": false,
+    "numberOfAbsences": 1
+  },
+  {
+    "id": "1313",
+    "name": {
+      "firstName": "Han",
+      "lastName": "Solo"
+    },
+    "subjectsAndGradeMap": {},
+    "isAbsent": false,
+    "numberOfAbsences": 1
+  }
+]

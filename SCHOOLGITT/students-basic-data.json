@@ -1,0 +1,39 @@
+[
+{
+      "name": "Elijah Wood",
+      "birthDate": "1981.01.28",
+      "birthPlace": "Cedar Rapids",
+      "address": "Zsáklak",
+	  "contactName": "Viggo Mortensen",
+      "contactEmail": "aragorn@gmail.com",
+      "contactPhone": "555-3666-232"
+      
+    },
+    {
+     "name": "Sean Austin",
+      "birthDate": "1971.02.25",
+      "birthPlace": "Santa Monica",
+      "address": "Csavard",
+	  "contactName": "Ian McKellen",
+      "contactEmail": "gandalf@gmail.com",
+      "contactPhone": "523-3656-111"
+    },
+    {
+      "name": "Dominic Monaghan",
+      "birthDate": "1976.12.08",
+      "birthPlace": "Berlin",
+      "address": "Sápkút",
+	  "contactName": "Sean Bean",
+      "contactEmail": "boromir@gmail.com",
+      "contactPhone": "123-8974-221"
+    },
+    {
+       "name": "Billy Boyd",
+      "birthDate": "1968.08.28",
+      "birthPlace": "Cedar Rapids",
+      "address": "Tukföld",
+	  "contactName": "Orlando Bloom",
+      "contactEmail": "legolas@gmail.com",
+      "contactPhone": "335-4528-741"
+    }
+]
